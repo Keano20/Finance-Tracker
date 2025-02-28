@@ -7,11 +7,6 @@ A simple and intuitive finance tracker application built with C++ and Qt to help
 - View spending summaries with interactive charts
 - User-friendly interface built with Qt
 
-## 🔧 Technologies Used
-- C++ Standard Library
-- Qt for the graphical user interface
-- File handling for data storage
-
 ## Prerequisites  
 - **Qt 6.x** – Download from [Qt Official Site](https://www.qt.io/download)  
 - **CMake 3.16 or higher** – [Download CMake](https://cmake.org/download/)
